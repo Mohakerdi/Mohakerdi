@@ -1,56 +1,70 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Hey%20there,%20I'm%20Mohakerdi%20🚀&fontAlign=50&fontAlignY=40&color=0:0f2027,50:203a43,100:2c5364&fontColor=ffffff&animation=twinkling&desc=Mobile%20App%20Dev%20•%20Game%20Dev%20•%20Creative%20Builder&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=MOHAKERDI&fontAlign=50&fontAlignY=38&animation=twinkling&fontSize=62&desc=Flutter%20•%20Godot%20•%20C%2B%2B%20•%20Java%20•%20Creative%20Builder&descAlignY=58&color=0:141E30,50:243B55,100:0F2027&fontColor=ffffff" width="100%" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=900&color=00E7FF&center=true&vCenter=true&width=980&lines=I+build+mobile+apps+with+Flutter.;I+prototype+games+with+Godot+and+C%2B%2B.;I+love+interactive+systems+and+clean+UI.;Always+learning.+Always+shipping.+Always+creating." alt="Typing animation" />
 
 <br/>
+<br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=900&lines=I+build+mobile+apps+with+Flutter.;I+create+games+with+Godot+%26+C%2B%2B.;I+shape+worlds+with+Blender.;I+craft+web+experiences+with+HTML+%2F+CSS+%2F+JS.;Always+learning.+Always+creating.+" alt="Typing animation" />
+<a href="https://github.com/Mohakerdi"><img src="https://img.shields.io/badge/GitHub-Mohakerdi-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Mohakerdi&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🌌 About Me
+## ⚡ About Me
 
-```txt
-🎯 Focused on: Mobile apps, game systems, and interactive experiences
-🧠 Core vibe: Creative engineering + visual storytelling
-⚙️ Tech playground: Flutter, Java, C++, Godot, Blender, Web
-```
-
-- 📱 Building smooth, modern mobile apps  
-- 🎮 Prototyping and shipping game ideas  
-- 🧩 Mixing code + design to create immersive projects  
-- 🚀 Exploring performance, gameplay feel, and polished UX  
+- 🧠 Creative developer focused on **mobile + game experiences**
+- 📱 Building in **Flutter / Dart**
+- 🎮 Exploring gameplay in **Godot / GDScript / C++**
+- ☕ Strong background in **Java desktop projects**
+- 🎨 Interested in design-driven interfaces and interactive visuals
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Featured Projects
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,java,cpp,godot,blender,html,css,js,git,github,vscode&perline=6" />
+<a href="https://github.com/Mohakerdi/AlMekhtar">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohakerdi&repo=AlMekhtar&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Mohakerdi/GodotRJ">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohakerdi&repo=GodotRJ&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Mohakerdi/Expo">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohakerdi&repo=Expo&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/Mohakerdi/swing_SnakeGame">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohakerdi&repo=swing_SnakeGame&theme=tokyonight&hide_border=true" />
+</a>
 
 </div>
 
 ---
 
-## 🎨 Creative + Dev Toolkit
+## 🧩 Tech Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Mobile-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-<img src="https://img.shields.io/badge/Game%20Dev-Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
-<img src="https://img.shields.io/badge/3D-Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-<img src="https://img.shields.io/badge/Language-Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Language-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-<img src="https://img.shields.io/badge/Web-HTML%2FCSS%2FJS-E34F26?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,cpp,godot,blender,html,css,js,git,github,vscode&perline=6" />
 
 </div>
 
 ---
 
-## 📊 GitHub Pulse
+## 🌟 What I'm Into (Based on my starred repos)
+
+- 🎮 **Game dev resources & ecosystems** (Godot, game jams, tools)
+- 🛠️ **Build-your-own / learning-by-building** projects
+- 🎨 **UI inspiration & front-end visuals**
+- 📚 Curated “awesome” lists to stay sharp and up to date
+
+---
+
+## 📊 GitHub Vitals
 
 <div align="center">
 
@@ -59,37 +73,25 @@
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohakerdi&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohakerdi&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🧪 Currently Leveling Up
+## 🎯 Current Focus
 
-- ✨ Advanced Flutter architecture patterns  
-- 🕹️ Game mechanics and juicy game feel in Godot  
-- 🧱 C++ optimization for systems and gameplay  
-- 🌍 Better 3D pipelines from Blender to engine integration  
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/Mohakerdi">
-  <img src="https://img.shields.io/badge/GitHub-Mohakerdi-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
+- Advanced Flutter architecture and polish
+- Better game feel and mechanics in Godot
+- C++ fundamentals for performant game systems
+- Shipping more complete public projects
 
 ---
 
 <div align="center">
 
-### 💫 *"Code it. Shape it. Play it."*
+### 🔥 *Code. Create. Play. Repeat.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2c5364,50:203a43,100:0f2027" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F2027,50:243B55,100:141E30" width="100%" />
 
 </div>
