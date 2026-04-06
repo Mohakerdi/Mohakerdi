@@ -28,9 +28,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=Featured+Projects;AlMekhtar+•+GodotRJ+•+Expo+•+swing_SnakeGame" alt="Featured projects animation" />
-
-<br/>
+✨ <b>Featured repositories</b>
 <br/>
 
 <a href="https://github.com/Mohakerdi/AlMekhtar">🔹 AlMekhtar</a> •
