@@ -29,16 +29,16 @@
 <div align="center">
 
 <a href="https://github.com/Mohakerdi/AlMekhtar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohakerdi&repo=AlMekhtar&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Mohakerdi&repo=AlMekhtar&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/Mohakerdi/GodotRJ">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohakerdi&repo=GodotRJ&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Mohakerdi&repo=GodotRJ&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/Mohakerdi/Expo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohakerdi&repo=Expo&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Mohakerdi&repo=Expo&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/Mohakerdi/swing_SnakeGame">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Mohakerdi&repo=swing_SnakeGame&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Mohakerdi&repo=swing_SnakeGame&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -68,12 +68,12 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Mohakerdi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohakerdi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 <img height="170" src="https://streak-stats.demolab.com?user=Mohakerdi&theme=tokyonight&hide_border=true" />
 
 <br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohakerdi&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mohakerdi&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
