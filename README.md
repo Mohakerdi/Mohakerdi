@@ -28,18 +28,15 @@
 
 <div align="center">
 
-<a href="https://github.com/Mohakerdi/AlMekhtar">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Mohakerdi&repo=AlMekhtar&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Mohakerdi/GodotRJ">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Mohakerdi&repo=GodotRJ&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Mohakerdi/Expo">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Mohakerdi&repo=Expo&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/Mohakerdi/swing_SnakeGame">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Mohakerdi&repo=swing_SnakeGame&theme=tokyonight&hide_border=true" />
-</a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=900&lines=Featured+Projects;AlMekhtar+•+GodotRJ+•+Expo+•+swing_SnakeGame" alt="Featured projects animation" />
+
+<br/>
+<br/>
+
+<a href="https://github.com/Mohakerdi/AlMekhtar">🔹 AlMekhtar</a> •
+<a href="https://github.com/Mohakerdi/GodotRJ">🔹 GodotRJ</a> •
+<a href="https://github.com/Mohakerdi/Expo">🔹 Expo</a> •
+<a href="https://github.com/Mohakerdi/swing_SnakeGame">🔹 swing_SnakeGame</a>
 
 </div>
 
