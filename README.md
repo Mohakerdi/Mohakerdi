@@ -62,6 +62,8 @@
 ## 📊 GitHub Vitals
 
 <div align="center">
+  
+[![committers.top badge](https://user-badge.committers.top/syria/Mohakerdi.svg)](https://user-badge.committers.top/syria/Mohakerdi)
 
 <img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mohakerdi&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 <img height="170" src="https://streak-stats.demolab.com?user=Mohakerdi&theme=tokyonight&hide_border=true" />
