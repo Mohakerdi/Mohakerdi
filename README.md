@@ -33,7 +33,7 @@
 
 <a href="https://github.com/Mohakerdi/AlMekhtar">🔹 AlMekhtar</a> •
 <a href="https://github.com/Mohakerdi/GodotRJ">🔹 GodotRJ</a> •
-<a href="https://github.com/Mohakerdi/Expo">🔹 Expo</a> •
+<a href="https://github.com/Mohakerdi/Quizzer">🔹 Quizzer</a> •
 <a href="https://github.com/Mohakerdi/swing_SnakeGame">🔹 swing_SnakeGame</a>
 
 </div>
